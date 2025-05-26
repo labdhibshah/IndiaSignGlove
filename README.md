@@ -197,5 +197,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or suggestions, contact Rachit Sharma.
+For questions or suggestions, contact Labdhi Shah.
 
